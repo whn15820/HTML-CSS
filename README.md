@@ -1,4 +1,7 @@
 # Notes
+
+[![License](https://img.shields.io/badge/license-WTFPL-blue.svg)](LICENSE)
+
 Class notes
 
 ## Index
