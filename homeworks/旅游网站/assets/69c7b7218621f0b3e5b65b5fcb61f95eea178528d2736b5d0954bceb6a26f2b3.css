@@ -1,0 +1,16 @@
+/**
+ *            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+ *                    Version 2, December 2004
+ * 
+ * Copyright (C) 2016 Richard Chien <richardchienthebest@gmail.com>
+ * 
+ * Everyone is permitted to copy and distribute verbatim or modified
+ * copies of this license document, and changing it is allowed as long
+ * as the name is changed.
+ * 
+ *            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+ *   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+ * 
+ *  0. You just DO WHAT THE FUCK YOU WANT TO.
+ */
+body {margin: 0;font-family: Microsoft Yahei UI;}.top-header {background-color: rgb(40, 40, 40);height: 70px;}.flex {display: flex;}.center {text-align: center;}.fill-space {justify-content: space-between;}.site-logo {background-image: url(a417240313121a921d965ddab7640859537dfc010d2ae65dbed681cd0c967ddb.gif);width: 235px;height: 70px;}.container {width: 1220px;margin: 0 auto;}.top-header nav {display: block;height: 70px;}.top-header ul {list-style: none;margin: 0;padding: 0;}.top-header li {display: inline-block;line-height: 70px;height: 70px;width: 120px;text-align: center;color: white;}.banner {background-image: url(ef1fa9942b8cfe6ebe2db2dacf75a6d02593a0d8fbaefc2accef1864d44b15fe.jpg);height: 600px;background-size: cover;background-position: center;position: relative;}.search-bar {height: 60px;border-radius: 5px;padding: 2px;background-color: rgba(0, 0, 0, 0.5);width: 600px;position: absolute;top: 270px;left: calc((100vw - 600px) / 2)}.search-bar > * {margin: 2px;font-size: 24px;font-family: SimSun;font-weight: bold;border-radius: 8px;}.search-bar button {width: 120px;flex-grow: 0;flex-shrink: 0;}.search-bar input {flex-grow: 1;flex-shrink: 1;padding-left: 0.5em;width:0;}.search-bar input:focus {outline: none;}.search-bar input::placeholder {color: #ccc;}.subtitle {font-size: 1.1rem;font-weight: normal;}.item-container {border: solid 1px black;width: 380px;padding: 4px;position: relative;height: 350px;font-size: 20px;line-height: 1.5em;}table {width: 100%;margin: 1rem 0 1rem 0;}.preview {width: 380px;height: 230px;display: block;}span.subt {font-size: 00.8rem;color: #888;}div.left-bottom {display: block;position: absolute;left: 5px;bottom: 5px;}span.price, span.price::before, span.price::after {color: red;}span.price::before {content: '￥';}span.price::after {content: '起'}div.right-bottom {display: block;position: absolute;right: 5px;bottom: 5px;}span.vote, span.vote::before, span.vote::after {color: #888;font-size: 12px;}span.vote::before {content: '好评率';}span.vote::after {content: '%'}.column {width: 380px;}footer {background-color: rgb(34, 34, 34);color: white;}footer > div {margin-left: 40px;}.column h2 {padding-bottom: 15px;margin-bottom: 5px;border-bottom: 5px dashed #333;}.column ul {list-style: none;color: #888;padding: 0;font-size: 14px;line-height: 22px;}.copyright {color: #888;line-height: 3rem;font-size: 0.9rem;background: black;border-top: 1px solid #555;}
